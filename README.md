@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My Github Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ACodeSinger&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+### Reference
 [how to create an awesome github profile.](https://medium.com/javascript-in-plain-english/how-to-create-an-awesome-github-profile-readme-a474d5b45645)
 
 <!--
