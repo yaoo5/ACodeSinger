@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![how to create an awesome github profile.](https://medium.com/javascript-in-plain-english/how-to-create-an-awesome-github-profile-readme-a474d5b45645)
+
 <!--
 **ACodeSinger/ACodeSinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
